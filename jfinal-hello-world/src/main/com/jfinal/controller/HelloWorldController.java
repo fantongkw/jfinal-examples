@@ -1,4 +1,4 @@
-package controller;
+package jfinal.controller;
 
 import com.jfinal.core.Controller;
 

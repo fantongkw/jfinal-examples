@@ -1,7 +1,9 @@
+package jfinal;
+
 import com.jfinal.config.*;
 import com.jfinal.server.undertow.UndertowServer;
 import com.jfinal.template.Engine;
-import controller.HelloWorldController;
+import jfinal.controller.HelloWorldController;
 
 public class HelloWorldConfig extends JFinalConfig {
 
