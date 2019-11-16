@@ -3,7 +3,7 @@ package jfinal;
 import com.jfinal.config.*;
 import com.jfinal.server.undertow.UndertowServer;
 import com.jfinal.template.Engine;
-import jfinal.controller.HelloWorldController;
+import com.jfinal.controller.HelloWorldController;
 
 public class HelloWorldConfig extends JFinalConfig {
 
