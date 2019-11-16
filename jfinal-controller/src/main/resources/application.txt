@@ -1,0 +1,5 @@
+# mysql config
+jdbcUrl = jdbc:mysql://localhost:3306/jfinal-example?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=false&allowMultiQueries=true
+user = root
+password = 123456
+devMode = true
